@@ -1,5 +1,22 @@
+Net Craft:-"https://www.netcraft.com/"
+
 A company's top-level domains (TLDs) and sub-domains can provide a large amount of useful information to an attacker.
 A public website is designed to show the presence of an organization on the Internet.
 Sub-domains provide insights into the different departments and business units in an organization. 
 Identifying such sub-domains may reveal critical information regarding the target, such as the source code of the website and documents on the webserver.
  Therefore, a hacker who knows the external URL of a company can often discover the sub-domain through trial and error, or by using a service such as Netcraft
+
+Netcraft is the very big domain in which user will get the information about the solutions of the Information Technology and as well the Hardware Details 
+Also YOu will get the many more features like News and blogs about cybersecuirty 
+USer can also contact netcraft for the Detection of threat, threat analysis and many more
+
+The main feature in the netcraft is its Tools:- 
+->  Site Report
+-> Threat Map
+-> Dns 
+-> Most popular sites
+-> CyberCrime Threats
+
+The Most Important tool that is DNS Mapping 
+in this tool user will get the Sub-Domains of Top-Level Domains 
+Along with it user get information about which Operating system and also when it is created
