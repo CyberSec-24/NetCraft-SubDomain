@@ -1,0 +1,5 @@
+A company's top-level domains (TLDs) and sub-domains can provide a large amount of useful information to an attacker.
+A public website is designed to show the presence of an organization on the Internet.
+Sub-domains provide insights into the different departments and business units in an organization. 
+Identifying such sub-domains may reveal critical information regarding the target, such as the source code of the website and documents on the webserver.
+ Therefore, a hacker who knows the external URL of a company can often discover the sub-domain through trial and error, or by using a service such as Netcraft
