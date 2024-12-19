@@ -1,0 +1,16 @@
+Whois is a query and response protocol used for querying databases that store the registered users or
+assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system. This protocol listens to requests on port 43 (TCP). 
+Regional Internet Registries (RIRs) maintain Whois databases, which contain the personal information of domain owners
+
+▪ Thick Whois (Distributed Model) - Stores the complete Whois information from all the registrars for a particular set of data.
+▪ Thin Whois (Centralized Model) - Stores only the name of the Whois server of the registrar of a domain, which in turn holds complete details on the data being looked up.
+▪ Decentralized Whois - Stores complete WHOIS information and has multiple independent entities to manage the WHOIS database
+
+An attacker can query a Whois database server to obtain information regarding the target domain, and the Whois server responds to the query with the requested information.
+
+In the Whois user get information about the proper Domain
+From this Website user get information about
+-> who is the owner of the Doman
+-> when was registered
+-> when is going for sale or expired
+-> contact details of the owner
