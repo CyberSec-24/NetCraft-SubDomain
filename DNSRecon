@@ -1,0 +1,12 @@
+DNSRecon ia very useful tool
+ the DNS converts the domain name into an IP address and forwards the request for further processing
+
+This conversion of a domain name into an IP address is performed using a record. 
+Attackers perform a reverse DNS lookup on the IP range to locate a DNS PTR record for such IP addresses
+Attackers use various tools such as DNSRecon, Reverse Lookup, puredns, Reverse IP Domain Check, and Reverse IP Lookup to perform reverse DNS lookup on the target host
+
+DNSRecon is an inbuilt tool in the Kali Linux
+User have to just write DNSRecon and the terminal open for it 
+Command:- dnsrecon -r 162.241.216.0-162.241.216.255
+
+-r option specifies the range of IP addresses (first to last) for a reverse lookup by brute force.
