@@ -1,0 +1,15 @@
+Arin:- https://www.arin.net/resources/
+
+ARIN Whois database search tool. 
+A user can also visit the ARIN website (https://www.arin.net/about/welcome/region) and enter the server IP into the SEARCH Site or Whois text box.
+Additionally, if an attacker traces a route to a machine, it could be possible to obtain the internal IP address of the gateway, which can be useful
+
+Arin is basically a website in which user get different different topic blogs 
+As user goes in the website you will see the textbox 
+As user enter any IP Address in to that textbox 
+user will get the Information about many things like
+
+-> what is the role of that particular person 
+-> country
+-> when was it activated and when was it last updated or transfered
+->whois domain of the particular IP Address
